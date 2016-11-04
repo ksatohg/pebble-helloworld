@@ -1,0 +1,31 @@
+{
+    "author": "ksatohg@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "helloworld",
+    "pebble": {
+        "displayName": "HelloWorld",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/converted.png",
+                    "name": "IMAGE_BACKGROUND",
+                    "targetPlatforms": null,
+                    "type": "png"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "2b3c09e6-8b9c-40f6-8de6-076b9393b4c6",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
